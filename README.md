@@ -41,7 +41,7 @@ HackFlow is your ultimate hackathon assistant — an AI-powered platform that he
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/swayamvirmani/HackFlow.git
+git clone https://github.com/09khushi09/HackFlow.git
 cd HackFlow-BinaryBrains
 2. Install Dependencies
 bash
@@ -79,3 +79,6 @@ src/
 │   └── generatefromGemini.js
 ├── App.jsx
 ├── main.jsx
+
+Author :
+Khushi Gupta
